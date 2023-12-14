@@ -8,6 +8,7 @@
 </script>
 
 <svelte:head>
+	<link rel="icon" href="https://ceasefire.la/favicon.png" />
 	<meta
 		name="description"
 		content="In Los Angeles, a group of Palestinians, allies, and anti-Zionist Jews have emerged to rally as a collective people for a critical cause: Palestinian safety and liberation."
