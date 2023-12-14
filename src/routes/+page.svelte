@@ -30,9 +30,23 @@
 								>Join</a
 							>
 						</li>
-						<li class="list-none px-[20px]">
+						<li class="list-none px-[10px]">
 							<a href="https://instagram.com/ceasefire.la"
-								><i class="fill-blue-400 fa-brands fa-instagram"></i></a
+								><i
+									class="transition-all text-white hover:text-red-500 hover:fill-blue-100 fa-brands fa-instagram"
+								></i></a
+							>
+						</li>
+						<li class="list-none px-[10px]">
+							<a href="https://twitter.com/Ceasefire_LA"
+								><i class="transition-all hover:text-blue-400 text-white fa-brands fa-twitter"
+								></i></a
+							>
+						</li>
+						<li class="list-none px-[10px]">
+							<a href="https://t.me/ceasefire_la"
+								><i class="transition-all hover:text-blue-600 text-white fa-brands fa-telegram"
+								></i></a
 							>
 						</li>
 					</ul>
