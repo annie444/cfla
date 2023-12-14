@@ -19,9 +19,6 @@ const config = {
     adapter: adapter({
       runtime: 'nodejs18.x',
     }),
-    alias: {
-      $img: mode === "production" ? "./static" : "..",
-    }
   }
 };
 export default config;
