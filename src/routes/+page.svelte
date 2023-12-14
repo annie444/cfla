@@ -3,47 +3,53 @@
 		<div class="md:w-[40%] px-[45px] py-[50px]">
 			<div class="justify-between flex">
 				<div class="menu">
-					<ul class="flex list">
-						<li class="list-none px-[20px]">
-							<a
-								href="#our-purpose"
-								class="text-white hover:text-slate-400 no-underline font-sans text-[22px] a font-semibold relative before md:before:top-[35px] before:top-[55px]"
-								>Our Purpose</a
-							>
-						</li>
-						<li class="list-none px-[20px]">
-							<a
-								href="#our-demands"
-								class="text-white hover:text-slate-400 no-underline font-sans text-[22px] a font-semibold relative before md:before:top-[35px] before:top-[55px]"
-								>Our Demands</a
-							>
-						</li>
-						<li class="list-none px-[20px]">
-							<a
-								href="#cta"
-								class=" text-white hover:text-slate-400 no-underline font-sans text-[22px] a font-semibold relative before before:top-[35px]"
-								>Join</a
-							>
-						</li>
-						<li class="list-none px-[10px]">
-							<a href="https://instagram.com/ceasefire.la"
-								><i
-									class="transition-all text-white hover:text-red-500 hover:fill-blue-100 fa-brands fa-instagram"
-								></i></a
-							>
-						</li>
-						<li class="list-none px-[10px]">
-							<a href="https://twitter.com/Ceasefire_LA"
-								><i class="transition-all hover:text-blue-400 text-white fa-brands fa-twitter"
-								></i></a
-							>
-						</li>
-						<li class="list-none px-[10px]">
-							<a href="https://t.me/ceasefire_la"
-								><i class="transition-all hover:text-blue-600 text-white fa-brands fa-telegram"
-								></i></a
-							>
-						</li>
+					<ul class="flex list md:flex-row md:gap-0 flex-col gap-4 justify-end content-end">
+						<div class="flex">
+							<li class="list-none px-[20px]">
+								<a
+									href="#our-purpose"
+									class="text-white hover:text-slate-400 no-underline font-sans text-[22px] a font-semibold relative before md:before:top-[35px] before:top-[55px]"
+									>Our Purpose</a
+								>
+							</li>
+							<li class="list-none px-[20px]">
+								<a
+									href="#our-demands"
+									class="text-white hover:text-slate-400 no-underline font-sans text-[22px] a font-semibold relative before md:before:top-[35px] before:top-[55px]"
+									>Our Demands</a
+								>
+							</li>
+							<li class="list-none px-[20px]">
+								<a
+									href="#cta"
+									class=" text-white hover:text-slate-400 no-underline font-sans text-[22px] a font-semibold relative before before:top-[35px]"
+									>Join</a
+								>
+							</li>
+						</div>
+						<div
+							class="flex flex-col md:flex-row absolute md:relative left-[90%] md:left-0 top-[4%] md:top-0 justify-end content-end"
+						>
+							<li class="list-none px-[10px]">
+								<a href="https://instagram.com/ceasefire.la"
+									><i
+										class="transition-all text-white hover:text-red-500 hover:fill-blue-100 fa-brands fa-instagram"
+									></i></a
+								>
+							</li>
+							<li class="list-none px-[10px]">
+								<a href="https://twitter.com/Ceasefire_LA"
+									><i class="transition-all hover:text-blue-400 text-white fa-brands fa-twitter"
+									></i></a
+								>
+							</li>
+							<li class="list-none px-[10px]">
+								<a href="https://t.me/ceasefire_la"
+									><i class="transition-all hover:text-blue-600 text-white fa-brands fa-telegram"
+									></i></a
+								>
+							</li>
+						</div>
 					</ul>
 				</div>
 			</div>
