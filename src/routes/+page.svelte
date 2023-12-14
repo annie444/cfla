@@ -2,11 +2,6 @@
 	<div class="w-full min-h-full flex flex-col md:flex-row intro bg-green-950">
 		<div class="md:w-[40%] px-[45px] py-[50px]">
 			<div class="justify-between flex">
-				<div class="backIcon">
-					<a href="#home" class="text-white hover:text-slate-400"
-						><i class="fill-slate-400 fa-solid fa-arrow-left"></i></a
-					>
-				</div>
 				<div class="menu">
 					<ul class="flex list">
 						<li class="list-none px-[20px]">
